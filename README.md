@@ -1,2 +1,2 @@
-# kurtkozo2.github.io
+JSCODE3.github.io
 landing page
